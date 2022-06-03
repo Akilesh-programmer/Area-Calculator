@@ -1,5 +1,3 @@
-package com.akilesh;
-
 public class AreaCalculator {
 
     // Method to calculate area of circle
